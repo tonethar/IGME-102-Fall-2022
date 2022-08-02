@@ -1,7 +1,7 @@
 # IGME-102 - Fall 2022 (2221)
 Welcome to the course materials for IGME-102 - *Rich Media Interactive Development I.*
 - You should first read the *syllabus*
-- Then read the course *topics*
+- Then read the course [topics](topics.md)
 - Then look at the semester course [schedule](schedule.md)
 - Look over the lecture notes for the [first day](./weekly/01.md)
 
