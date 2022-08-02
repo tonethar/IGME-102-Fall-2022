@@ -21,9 +21,9 @@
 | 11 | **10/31** & **11/02** & **11/04** |  |
 | 12 | **11/07** & **11/09** & **11/11** |  |
 | 13 | **11/14** & **11/16** & **11/18** |  |
-| 14 | **11/21**         | *Thanksgiving Break begins Wednesday 11/23* |
+| 14 | **Monday 11/21**         | *Thanksgiving Break begins Wednesday 11/23* |
 | 15 | **11/28** & **11/30** & **12/2** |  |
-| LD | **12/5** | *Monday 12/5 - Last Day of Class* |
+| LD | **Monday 12/5** | *Monday 12/5 - Last Day of Class* |
 |    | **12/07** - **12/14** | **Final Exam Period**
 
 
