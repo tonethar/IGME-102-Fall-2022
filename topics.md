@@ -1,16 +1,42 @@
 # IGME-202 - Fall 2022: Topics
 
 ## I. Setup & JS Review
+- JS Review
+  - variables
+  - data types
+  - operators
+  - conditionals (branching)
+  - variable scope & lifetime
+  - functions
+  - loops
+- Set up VS Code
+- P5 Review
 
-## II. Debugging & JS Review
+## II. More JS
+- JS classes
+- `for..of` loop
+- nested loops
+- value types v. reference types
 
 ## III. Nested Loops/ for..of loops
+- Class inheritance
+- `typeof` & `instanceof`
+- heterogeneous arrays
+- HW-1 Due
 
-## VI. Inheritance
+## IV. Arrays & Objects
+- Arrays
+- Array methods
+- Object literals
+- Collections 
 
-## V. Collections Part I.
+## V. Collections Part I
+- Maps
+- HW2 due
+- Exam 1 Review
+- Exam 1
 
-## VI. Greatest Hits
+## VI. Collections Part II
 
 ## VII. Collections Part II.
 
