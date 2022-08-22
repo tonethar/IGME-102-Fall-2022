@@ -22,7 +22,7 @@
 - Class inheritance
 - `typeof` & `instanceof`
 - heterogeneous arrays
-- HW-1 Due
+- HW1 Due
 
 ## IV. Arrays & Objects
 - Arrays
@@ -34,20 +34,43 @@
 - Maps
 - HW2 due
 - Exam 1 Review
-- Exam 1
+- Exam 1 given in-class
 
 ## VI. Collections Part II
+- Stacks
+- Queues
+- Sets
 
-## VII. Collections Part II.
+## VII. Text
+- Loading external text files
+- HW3 due
 
-## VIII. DIY Collections
+## VIII. Strings
+- Formatting, parsing, converting
+- Array spread operator
+- Destructuring operator
 
-## IX. File IO + Strings
+## IX. JSON
+- loading/parsing JSON
+- HW4 due
 
-## X. Math & Errors
+## X. Math & Forms
+- review p5 math functions
+- HTML form elements
 
-## XI. Higher-order functions and methods
+## XI. Data Viz
+- Data Viz
+- Errors: preventing, catagorizing, catching
 
-## XII. Arrow functions
+## XII. Higher-order functions
+- `array.map()`
+- `array.filter()`
+- `array.forEach()`
+- HW5 due
 
-## XIII. Media & Pixels
+## XIII. Arrow functions
+- HW6 due
+
+## XIV. Wrap up
+- Software Design
+- Exam Review
