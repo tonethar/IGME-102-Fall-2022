@@ -1,5 +1,7 @@
 # IGME-102 - Fall 2022: Topics
 
+- Note: the order of these topics is subject to change
+
 ## I. Setup & JS Review
 - JS Review
   - variables
