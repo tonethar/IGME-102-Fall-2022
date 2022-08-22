@@ -1,4 +1,4 @@
-# IGME-202 - Fall 2022: Topics
+# IGME-102 - Fall 2022: Topics
 
 ## I. Setup & JS Review
 - JS Review
