@@ -27,7 +27,7 @@
 /**
  * @author Ace Coder <abc1234@rit.edu>
  * @description Class that displays a Pacman on the screen.
-  */
+ */
 class Pac{
   /**
    * Create a new Pac
@@ -69,7 +69,7 @@ class Pac{
 /**
  * @author Ace Coder <abc1234@rit.edu>
  * @description Class that displays text on the screen.
-  */
+ */
 class PLabel{
   /**
    * Create a new PLabel
