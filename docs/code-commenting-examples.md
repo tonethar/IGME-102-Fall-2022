@@ -114,6 +114,7 @@ class PLabel{
  * @overview Practice Exercise 03
  * @author Ace Coder <abc1234@rit.edu>
  */
+"use strict";
 let plabel;
 let pac;
 
