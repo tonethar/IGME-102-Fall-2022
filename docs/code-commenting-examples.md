@@ -8,6 +8,18 @@
 - These comments show up as "hints" in VSCode
 - If you type `/**` - VSCode will autocomplete a JS comment template for you
 
+## Navigation
+
+- [I. ES6 class examples](#class)
+
+- [II. **sketch.js** example](#sketch)
+
+- [III. Function that has a `return` value example](#function)
+
+<a id="class"></a>
+
+<hr>
+
 ## I. ES6 class examples
 
 **Pac.js**
@@ -88,6 +100,8 @@ class PLabel{
 }
 ```
 
+<a id="sketch"></a>
+
 ## II. **sketch.js** example
 
 **sketch.js**
@@ -134,6 +148,8 @@ function mouseClicked(){
   plabel.flipIfNear();
 }
 ```
+
+<a id="function"></a>
 
 ## III. Function that has a `return` value example
 
