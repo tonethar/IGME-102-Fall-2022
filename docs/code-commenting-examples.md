@@ -30,7 +30,7 @@
   */
 class Pac{
   /**
-   * Create a Pac
+   * Create a new Pac
    * @param {number} x - the x value.
    * @param {number} y - the y value.
    */
@@ -68,9 +68,12 @@ class Pac{
 ```js
 /**
  * Author: Ace Coder
- * Class that displays a label on the screen.
+ * Class that displays text on the screen.
   */
 class PLabel{
+/**
+ * Create a new PLabel
+ */
   constructor(){
     this.x = width/2;
     this.y = 300;
