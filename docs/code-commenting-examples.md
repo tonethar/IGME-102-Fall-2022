@@ -130,7 +130,6 @@ function draw() {
  * p5.js event handler.
  */
 function mouseClicked(){
-  console.log("clicked");
   // if the click is near plabel, then flip its text
   plabel.flipIfNear();
 }
