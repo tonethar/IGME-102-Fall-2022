@@ -135,3 +135,17 @@ function mouseClicked(){
   plabel.flipIfNear();
 }
 ```
+
+## III. Function that has a `return` value example
+
+```js
+/**
+ * Add 2 numbers together and return their sum.
+ * @param {number} num1 - The first number.
+ * @param {number} num2 - The second number.
+ * @return {number} The sum of the 2 numbers.
+ */
+function sum(num1,num2) {
+  return num1 + num2;
+}
+```
