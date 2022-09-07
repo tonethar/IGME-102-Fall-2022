@@ -65,7 +65,7 @@ class Pac{
 ```
 
 **PLabel.js**
-```
+```js
 /**
  * Author: Ace Coder
  * Class that displays a label on the screen.
