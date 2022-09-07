@@ -10,11 +10,11 @@
 
 ## Navigation
 
-- [I. ES6 class examples](#class)
+[I. ES6 class examples](#class)
 
-- [II. **sketch.js** example](#sketch)
+[II. **sketch.js** example](#sketch)
 
-- [III. Function that has a `return` value example](#function)
+[III. Function that has a `return` value example](#function)
 
 <a id="class"></a>
 
