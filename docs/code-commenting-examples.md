@@ -25,8 +25,8 @@
 **Pac.js**
 ```js
 /**
- * Author: Ace Coder
- * Class that displays a Pacman on the screen.
+ * @author Ace Coder <abc1234@rit.edu>
+ * @description Class that displays a Pacman on the screen.
   */
 class Pac{
   /**
@@ -67,13 +67,13 @@ class Pac{
 **PLabel.js**
 ```js
 /**
- * Author: Ace Coder
- * Class that displays text on the screen.
- */
+ * @author Ace Coder <abc1234@rit.edu>
+ * @description Class that displays text on the screen.
+  */
 class PLabel{
-/**
- * Create a new PLabel
- */
+  /**
+   * Create a new PLabel
+   */
   constructor(){
     this.x = width/2;
     this.y = 300;
@@ -111,7 +111,8 @@ class PLabel{
 
 ```js
 /**
- * Entry point for p5.js project.
+ * @overview Practice Exercise 03
+ * @author Ace Coder <abc1234@rit.edu>
  */
 let plabel;
 let pac;
@@ -147,8 +148,19 @@ function draw() {
  * p5.js event handler.
  */
 function mouseClicked(){
+  console.log("clicked");
   // if the click is near plabel, then flip its text
   plabel.flipIfNear();
+}
+
+/**
+ * Add 2 numbers together and return their sum.
+ * @param {number} num1 - The first number.
+ * @param {number} num2 - The second number.
+ * @return {number} The sum of the 2 numbers.
+ */
+ function sum(num1,num2) {
+  return num1 + num2;
 }
 ```
 
