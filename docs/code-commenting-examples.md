@@ -115,6 +115,8 @@ class PLabel{
  * @author Ace Coder <abc1234@rit.edu>
  */
 "use strict";
+
+/** Global Variables */
 let plabel;
 let pac;
 
