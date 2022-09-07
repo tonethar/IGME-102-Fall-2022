@@ -2,7 +2,7 @@
 
 ## Overview
 
-- We will be using JSDoc syntax:
+- You are required to use JSDoc syntax in all PEs and HWs:
   - https://jsdoc.app/
   - https://jsdoc.app/howto-es2015-classes.html
 - These comments show up as "hints" in VSCode
