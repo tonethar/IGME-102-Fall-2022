@@ -88,8 +88,10 @@ class PLabel{
   }
 
   /**
-   * If mouse is clicked nearby, swap the text.
-   */
+    * If mouse is clicked nearby, swap the text.
+    * @param {number} x - the x position to test
+    * @param {number} y - the y position to test
+    */
   flipIfNear(x=mouseX,y=mouseY){
     const distance = dist(x, y, this.x, this.y);
     if(distance < 100){
