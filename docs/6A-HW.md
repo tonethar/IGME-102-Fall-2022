@@ -6,7 +6,7 @@
 - Create a p5 project in VS Code
 - Use the start code below for your **sketch.js**
 - Review your **Midterm Practice 6A** and transfer your answers (for parts A, C, D & E) from paper to the `partA()`, `partC()`, `partD()`, `partE()` functions in `setup()`  
-- ZIP up the entire projct folder and post to myCourses
+- ZIP up the entire project folder and post to myCourses
 
 ```js
 "use strict";
