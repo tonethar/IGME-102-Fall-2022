@@ -62,7 +62,8 @@ function addToScore(){
 ```
 
 ```
-1) For the code fragment above, identify which variables and functions are of local scope, and which one are of global scope.
+1) For the code fragment above, identify which variables and functions are of local scope, 
+and which one are of global scope.
 
 local:
 
