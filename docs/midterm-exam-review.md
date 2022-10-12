@@ -8,6 +8,8 @@
   - you should review all of the PDFs in myCourses (Powerpoints, HW assignments, and PEs)
   - review  **quiz-practice-2A.pdf**, **midterm-practice-6A.pdf** and **midterm-practice-7B.pdf** 
     - the PDFs for these have all been posted to myCourses, the Week 8 content section
+    - And also reference the [Week 6A HW](../docs/6A-HW.md)
+   
 
 <hr>
 
