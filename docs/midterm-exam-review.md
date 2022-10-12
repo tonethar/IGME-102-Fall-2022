@@ -7,19 +7,25 @@
   - you should review all of the class notes starting at [week 1](../weekly/)
   - you should review all of the PDFs in myCourses (Powerpoints, HW assignments, and PEs)
   - review  **quiz-practice-2A.pdf**, **midterm-practice-6A.pdf** and **midterm-practice-7B.pdf** 
-    - these have all been posted to myCourses, the Week 8 content section
-  
+    - the PDFs for these have all been posted to myCourses, the Week 8 content section
+
+<hr>
+
 ##  II. "Cheat Sheet"
 - A hand-written 3x5 index card can be created by you and used during the exam
 - I will also give you the exact same "cheat sheet" that you received for midterm practice 6A
 
+<hr>
+
 ## III. Accommodations
 - If you are allowed extra time for exams, contact the accommodations office ASAP to schedule your exam for Friday
+
+<hr>
 
 ## IV. Week 1 (and later) - a review of basic programming concepts
 
 
-## IV-A. Variables
+### IV-A. Variables
 - "named containers for values"
 - have *scope* , which is where they are visible in the program
   - *global** scope is when a variable is declared *outside* of a function - with either `var`, `let` or `const`
@@ -90,7 +96,7 @@ log #4 -
 
 <hr>
 
-## IV-B. Functions   
+### IV-B. Functions   
   - how to pass a parameter
   - how to return a value
   - how to return "multiple values"
@@ -103,7 +109,7 @@ log #4 -
 
 <hr>
 
-## IV-C. Types
+### IV-C. Types
 
 - `String`, `Number`, `Boolean` are called *value* or *primitive* types because they hold simple values (strings of characters, numbers, true/false) and are *immutable* (can't change) 
 
@@ -172,7 +178,7 @@ console.log("obj1 === obj2?", obj1 === obj2); // they are pointing at the same t
 
 <hr>
 
-## IV-D. Comparison Operators and Equality (for value types)
+### IV-D. Comparison Operators and Equality (for value types)
 
 - The JS equality operator - `==` will do a *type conversion** before doing the comparison
 
@@ -190,7 +196,7 @@ console.log('0 === "0"?',0 === "0"); // false!
 
 <hr>
 
-## IV-E. Type casting and arithmetic operations
+### IV-E. Type casting and arithmetic operations
 - *Type casting refers to changing an variable of one data type into another*
 
 ```js
