@@ -103,7 +103,7 @@ log #4 -
 
 ### IV-C. Types
 
-- `String`, `Number`, `Boolean` are called *value* or *primitive* types because they hold simple values (strings of characters, numbers, true/false) and are *immutable* (can't change) 
+- **`String`, `Number`, `Boolean` are called *value* or *primitive* types because they hold simple values (strings of characters, numbers, true/false) and are *immutable* (can't change)**
 
 ```js
 "use strict";
@@ -125,8 +125,8 @@ console.log("score1:", score1);
 console.log("score3:", score3);
 ```
 
-- Objects and Arrays are called *reference* types - they are copied "by reference" and are *mutable* (i.e. they can be changed)
-- They are sometimes called "compound types" because they can hold multiple values of *different types*
+- **Objects and Arrays are called *reference* types - they are copied "by reference" and are *mutable* (i.e. they can be changed)**
+- **They are sometimes called "compound types" because they can hold multiple values of *different types***
 
 ```js
 const car = {
@@ -190,7 +190,7 @@ console.log("obj1 === obj2?", obj1 === obj2); // they are pointing at the same t
 
 ### IV-D. Comparison Operators and Equality (for value types)
 
-- The JS equality operator - `==` will do a *type conversion** before doing the comparison
+- **The JS equality operator - `==` will do a *type conversion** before doing the comparison**
 
 ```js
 // With `==`, JS will convert "0" the String to 0 the Number *before* doing the comparison
@@ -207,7 +207,7 @@ console.log('0 === "0"?',0 === "0"); // false!
 <hr>
 
 ### IV-E. Type casting and arithmetic operations
-- *Type casting refers to changing an variable of one data type into another*
+- ***Type casting refers to changing an variable of one data type into another***
 
 ```js
 console.log('1 + "1"?',1 + "1"); // string concatenation, not addition like we hoped for!
