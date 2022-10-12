@@ -124,6 +124,23 @@ console.log("score3:", score3);
 ```
 
 - Objects and Arrays are called *reference* types - they are copied "by reference" and are *mutable* (i.e. they can be changed)
+- They are sometimes called "compound types" because they can hold multiple values of *different types*
+
+```js
+const car = {
+  "model": "Bronco", // a string
+  "cylinders": 6 // a number
+};
+car.cylinders = 4; // dot notation to assign (set) a new value to a property
+console.log(car.model, car.cylinders); // dot notation get values
+
+// square brackets to access the index (aka "offset) and get/set the values
+const colors = ["red", "green"];
+colors[1] = "yellow";
+console.log(colors[1]);
+```
+
+- **Reference types behave differently when assigned to variables!**
 
 ```js
 ////////// REFERENCE TYPES ARE COPIED "BY REFERENCE" /////////////
@@ -162,6 +179,7 @@ console.log("obj2 is now:", obj2); // they are pointing at the same thing!
 console.log("obj1 === obj2?", obj1 === obj2); // they are pointing at the same thing!
 
 // and so on
+// BTW - functions are objects and thus reference types too!
 
 
 ```
