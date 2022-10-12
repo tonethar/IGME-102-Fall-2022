@@ -17,7 +17,9 @@
 - If you are allowed extra time for exams, contact the accommodations office ASAP to schedule your exam for Friday
 
 ## IV. Week 1 (and later) - a review of basic programming concepts
-1) variables
+
+
+## IV-A. Variables
 - "named containers for values"
 - have *scope* , which is where they are visible in the program
   - *global** scope is when a variable is declared *outside* of a function - with either `var`, `let` or `const`
@@ -88,7 +90,7 @@ log #4 -
 
 <hr>
 
-2) Functions   
+## IV-B. Functions   
   - how to pass a parameter
   - how to return a value
   - how to return "multiple values"
@@ -101,7 +103,7 @@ log #4 -
 
 <hr>
 
-3) Types
+## IV-C. Types
 
 - `String`, `Number`, `Boolean` are called *value* or *primitive* types because they hold simple values (strings of characters, numbers, true/false) and are *immutable* (can't change) 
 
@@ -170,7 +172,7 @@ console.log("obj1 === obj2?", obj1 === obj2); // they are pointing at the same t
 
 <hr>
 
-4) Comparison Operators and Equality (for value types)
+## IV-D. Comparison Operators and Equality (for value types)
 
 - The JS equality operator - `==` will do a *type conversion** before doing the comparison
 
@@ -188,7 +190,7 @@ console.log('0 === "0"?',0 === "0"); // false!
 
 <hr>
 
-5) Type casting and arithmetic operations
+## IV-E. Type casting and arithmetic operations
 - *Type casting refers to changing an variable of one data type into another*
 
 ```js
