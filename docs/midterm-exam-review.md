@@ -24,7 +24,7 @@
 
 <hr>
 
-## IV. Week 1 (and later) - a review of basic programming concepts
+## IV. Week 1 (and later) - a review of fundamental programming concepts
 
 
 ### IV-A. Variables
