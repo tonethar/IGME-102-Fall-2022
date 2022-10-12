@@ -241,3 +241,4 @@ console.log("distanceTravelled:",distanceTravelled); // `NaN` means "Not a Numbe
 ### V-A. Don't worry about:
 
 - Maps, Stacks, Queues, Sets
+- Don't worry about being specifically asked about *block scope*
