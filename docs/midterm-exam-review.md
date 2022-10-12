@@ -7,6 +7,7 @@
   - you should review all of the class notes starting at [week 1](../weekly/)
   - you should review all of the PDFs in myCourses (Powerpoints, HW assignments, and PEs)
   - review  **quiz-practice-2A.pdf**, **midterm-practice-6A.pdf** and **midterm-practice-7B.pdf** 
+    - these have all been posted to myCourses, the Week 8 content section
   
 ##  II. "Cheat Sheet"
 - A hand-written 3x5 index card can be created by you and used during the exam
