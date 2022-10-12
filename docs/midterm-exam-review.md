@@ -28,8 +28,8 @@
 ### IV-A. Variables
 - "named containers for values"
 - have *scope* , which is where they are visible in the program
-  - *global** scope is when a variable is declared *outside* of a function - with either `var`, `let` or `const`
-	- *local** scope is when a variable is declared *inside* of a function - with either `var`, `let` or `const`
+  - *global* scope is when a variable is declared *outside* of a function - with either `var`, `let` or `const`
+	- *local* scope is when a variable is declared *inside* of a function - with either `var`, `let` or `const`
 	- *block* scope is when a variable is declared *inside* of a *block* (i.e. curly braces `{}`) with either `let` or `const`
 
 **Sample Question (slightly more elaborate version of a question from 2A quiz)**
