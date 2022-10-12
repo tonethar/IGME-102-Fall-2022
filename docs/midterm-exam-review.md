@@ -130,17 +130,20 @@ console.log("score3:", score3);
 - **They are sometimes called "compound types" because they can hold multiple values of *different types***
 
 ```js
+"use strict";
+
 const car = {
   "model": "Bronco", // a string
   "cylinders": 6 // a number
 };
 car.cylinders = 4; // dot notation to assign (set) a new value to a property
-console.log(car.model, car.cylinders); // dot notation get values
+car.make="Ford";
+console.log(car.make,car.model, car.cylinders); // dot notation get values
 
 // square brackets to access the index (aka "offset) and get/set the values
-const colors = ["red", "green"];
-colors[1] = "yellow";
-console.log(colors[1]);
+const colors = ["red", "green",100, true];
+colors[1] = "yellow"; // set
+console.log(colors[1]); // get
 ```
 
 - **Reference types behave differently when assigned to variables!**
