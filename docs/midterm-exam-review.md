@@ -42,20 +42,20 @@ const maxIncrement = 10;
 
 
 function addToScore(){
-	let counter = 0;
-    let score = 11;
-    score += maxIncrement
-	if(true){
-      let score = 111;
-      score += maxIncrement;
-    }
-	return score;
+  let counter = 0;
+  let score = 11;
+  score += maxIncrement
+  if(true){
+    let score = 111;
+    score += maxIncrement;
+  }
+  return score;
 }
 
 
 //console.log(addToScore()); 	// log #1
-//console.log(++score); 		// log #2
-//console.log(++counter); 		// log #3
+//console.log(++score); 	// log #2
+//console.log(++counter); 	// log #3
 //console.log(++maxIncrement); 	// log #4
 ```
 
@@ -64,28 +64,18 @@ function addToScore(){
 
 local:
 
-
-
 global:
 
-
 block: 
-
-
-
 
 2) For the code fragment above, indicate the output for each of the console.log() calls above.
 If there will be an error associated with the log then write ERROR and the reason why
 
-
 log #1 - 
-
 
 log #2 -
 
-
 log #3 -
-
 
 log #4 -
 
