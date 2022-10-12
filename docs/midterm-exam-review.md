@@ -123,7 +123,7 @@ console.log("score1:", score1);
 console.log("score3:", score3);
 ```
 
-- Objects and Arrays are called *reference** types - they are copied "by reference" and are *mutable*
+- Objects and Arrays are called *reference* types - they are copied "by reference" and are *mutable* (i.e. they can be changed)
 
 ```js
 ////////// REFERENCE TYPES ARE COPIED "BY REFERENCE" /////////////
