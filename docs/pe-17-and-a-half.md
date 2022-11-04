@@ -26,13 +26,13 @@ function updateViz(state){
 
 <hr>
 
-- **Label 1**
+- **`updateViz(stateArray[1])`**
 
 ![screenshot](_images/pe17-1.png)
 
 <hr>
 
-- **Label 2**
+- **`updateViz(stateArray[14])`**
 
 ![screenshot](_images/pe17-2.png)
 
