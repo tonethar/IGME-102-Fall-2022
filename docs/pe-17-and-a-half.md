@@ -6,7 +6,7 @@
 2) `readStates()` will still create an array of the 50+ states
 
 3) After creating the array of states, `readStates()` will now call `updateViz()` with a single state
-  - example: `updateViz(new State(states[1])); // pass over California`
+  - example: `updateViz(stateArray[1]); // pass over California`
 
 4) `updateViz()` will now accept a `State` object as a parameter, and will then create a visualization using that state's data. Example:
 
