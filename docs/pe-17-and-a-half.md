@@ -22,11 +22,18 @@ function updateViz(state){
   // now draw bar graph
 ```
 
-5) Changing the `State` that is passed into `updateViz()` will chnage the visualization appropriately
+5) Changing the `State` that is passed into `updateViz()` will change the visualization appropriately
 
-
-- **Label 1**
-![screenshot](_images/pe17-1.png)
+<hr>
 
 - **Label 1**
+
 ![screenshot](_images/pe17-1.png)
+
+<hr>
+
+- **Label 2**
+
+![screenshot](_images/pe17-2.png)
+
+<hr>
