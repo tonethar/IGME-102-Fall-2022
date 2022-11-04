@@ -13,6 +13,7 @@
 ```js
 function updateViz(state){
   console.log(state);
+  // draw state name
   fill(255);
   textSize(36);
   let stateName = state.name;
@@ -22,7 +23,13 @@ function updateViz(state){
   // now draw bar graph
 ```
 
-5) Changing the `State` that is passed into `updateViz()` will change the visualization appropriately
+5) Changing the `State` that is passed into `updateViz()` will change the visualization appropriately. It must display:
+
+    - The state's name
+    - The state's male & female population in a pie chart
+    - The state's income (the 2 categories you chose) as a bar graph
+
+
 
 <hr>
 
