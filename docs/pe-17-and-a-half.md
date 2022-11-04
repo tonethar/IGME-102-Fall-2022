@@ -32,15 +32,15 @@ function updateViz(state){
 6) Hints
 
 - There is a Zipped pie chart demo in myCourses
-- You can figure out the bar charts on your own
-  - declaring variables to hold certain values (rather than hard-coded values) can make the code easier to write/read/debug
+- You can figure out the bar chart code on your own - `rect()` will get the job done
+  - declaring variables to hold certain values (rather than using hard-coded values) can make the code easier to write/read/debug
 
 ```js
+const barWidth = 70;
+const maxBarHeight = 100;
+const barSpacing = 10;
 let startX = 450;
 let startY = 250;
-let barWidth = 70;
-let maxBarHeight = 100;
-let barSpacing = 10;
 ```
 
 <hr>
