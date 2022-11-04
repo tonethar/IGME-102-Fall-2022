@@ -29,7 +29,19 @@ function updateViz(state){
     - The state's male & female population in a pie chart
     - The state's income (the 2 categories you chose) as a bar graph
 
+6) Hints
 
+- There is a Zipped pie chart demo in myCourses
+- You can figure out the bar charts on your own
+  - declaring variables to hold certain values (rather than hard-coded values) can make the code easier to write/read/debug
+
+```js
+let startX = 450;
+let startY = 250;
+let barWidth = 70;
+let maxBarHeight = 100;
+let barSpacing = 10;
+```
 
 <hr>
 
