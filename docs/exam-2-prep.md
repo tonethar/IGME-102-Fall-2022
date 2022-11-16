@@ -52,17 +52,3 @@
 ## IV. Cheat Sheet
 - One 3" x 5" index card, hand-written, is allowed
 
-<hr>
-
-## IV. End of Semester & HW-6
-- Last day of class is Monday 12/5, which means we have 4 class meetings after returning from Thanksgiving
-- See myCourses for due date of HW-6
-
-<hr>
-
-## V. Final Exam (Exam #3)
-
-- The final exam is scheduled for Wednesday 12/14 from 12:45PM-1:15PM in ORN-1380
-- Will be cumulative and cover topics from the entire semester
-- Reminder: you need a 70% average on the exams to pass the course
-- I will "drop" the lowest of the 3 exam grades before calculating the average
