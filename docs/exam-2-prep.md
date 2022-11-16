@@ -1,4 +1,4 @@
-# Exam #2 FAW & Review
+# Exam #2 FAQ & Review
 
 ## I. When is it?
 - Monday 11/21
