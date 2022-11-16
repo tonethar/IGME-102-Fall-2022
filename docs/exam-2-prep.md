@@ -2,7 +2,7 @@
 
 ## I. When is it?
 - Monday 11/21
-- Format - Written format similar to Exam #1
+- Format - Written, similar to Exam #1
 
 <hr>
 
