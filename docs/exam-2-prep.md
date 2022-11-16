@@ -5,7 +5,7 @@
 - Format - Written, similar to Exam #1
 - Exam Review:
   - Wednesday 11/16
-  - Friday 11/18 (1:30PM to 3:50PM)
+  - Friday 11/18 (2:30PM to 3:50PM)
 
 <hr>
 
