@@ -27,7 +27,7 @@
 
 ## III. Study Tips
 
-1) Object Literals and Maps
+**1) Object Literals and Maps**
     - BTW - In programming, what is a *Collection*?
       - See **Object Literals** PDF - Slide #20
     - **Object Literals** PDF - Slide #2
@@ -40,7 +40,7 @@
       - Name 2 differences between object literals and maps
       - See Slide #10, *Useful Map methods*
 
-2) Stacks, Queues, Sets
+**2) Stacks, Queues, Sets**
     - Be able to describe their structure in "plain english" - for example - this is from Slide #8 of the **Stacks** PDF in myCourses:
       - *A **stack** data structure acts like a literal stack of objects*
       - *You can only interact with the data currently on "top" of the stack*
@@ -51,7 +51,7 @@
     - Be sure that you review the **Queues and Callbacks** PDF and understand how Queues are different from Stacks
     - Be sure that you review the **Collection Sets Iterators** PDF and understand how Sets are different from Arrays, Stacks and Queues.
     
-3) Parsing text, Array destructuring, et al. (Will review on Friday)
+**3) Parsing text, Array destructuring, et al. (Will review on Friday)**
 
 
 ## IV. Cheat Sheet
