@@ -16,7 +16,7 @@
   - Sets
 - Parsing text - Turning a comma separated string into an array
 - Parsing JSON - reading values from a JSON file
-- Array destructuring
+- Array destructuring assignment
 - Higher order functions - examples: `array.filter()` and `array.map()`
 
 
