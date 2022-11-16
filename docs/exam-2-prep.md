@@ -46,4 +46,8 @@
 
 <hr>
 
-## IV. Final Exam?
+## IV. Final Exam (Exam #3)
+- Scheduled for Wednesday 12/14 from 12:45PM-1:15PM in ORN-1380
+- Will be cumulative and cover topics from the whole semester
+- Reminder: you need a 70% average on the exams to pass the course
+- I will "drop" the lowest of the 3 exam grades before calculating the average
