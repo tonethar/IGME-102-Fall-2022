@@ -51,7 +51,7 @@
     - Be sure that you review the **Queues and Callbacks** PDF and understand how Queues are different from Stacks
     - Be sure that you review the **Collection Sets Iterators** PDF and understand how Sets are different from Arrays, Stacks and Queues.
     
-3) Parsing text, Array destructuring, et al. (Will review on Friday)
+3) Parsing text, JSON, Array destructuring, et al. (Will review on Friday)
 
 
 ## IV. Cheat Sheet
