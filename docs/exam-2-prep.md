@@ -6,7 +6,7 @@
 
 <hr>
 
-## II. New Topics
+## II. Topics covered since midterm
 
 - Stacks
 - Queues
@@ -15,3 +15,14 @@
 - Parsing JSON - reading values from a JSON file
 - Array destructuring
 - Higher order functions - examples: `array.filter()` and `array.map()`
+
+
+<hr>
+
+## III. Study Tips
+
+
+
+<hr>
+
+## IV. Final Exam?
