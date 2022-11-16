@@ -46,10 +46,8 @@
     - Slide #10 talks about **LIFO**  - "Last In, First Out" 
     - Slides #9 and #13 discuss the most common actions that are performed on a Stack, which are **push**, **pop**, **peek**, **contains** and **clear**
     - Be sure that you review the **Queues and Callbacks** PDF and understand how Queues are different from Stacks
-    - Be sure that you review the **Collection Sets Iterators** PDF and understand how Sets are different from Stacks
+    - Be sure that you review the **Collection Sets Iterators** PDF and understand how Sets are different from Arrays, Stacks and Queues.
     
-
-
 
 ## IV. Cheat Sheet
 - One 3" x 5" index card, hand-written, is allowed
